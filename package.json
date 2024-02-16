@@ -1,7 +1,9 @@
 {
   "name": "vue-magic-scroller",
+  "author": "p9-web",
   "private": false,
-  "version": "0.0.3",
+  "license": "ISC",
+  "version": "0.0.4",
   "type": "module",
   "files": ["dist"],
   "main": "./dist/vue-magic-scroller.umd.cjs",
