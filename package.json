@@ -1,5 +1,5 @@
 {
-  "name": "@p9web/vue-magic-scroller",
+  "name": "vue-magic-scroller",
   "private": false,
   "version": "0.0.2",
   "type": "module",
